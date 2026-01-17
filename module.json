@@ -25,5 +25,5 @@
     ],
     "url": "https://raw.githubusercontent.com/casegib/vassalimporter/",
     "manifest": "https://raw.githubusercontent.com/casegib/vassalimporter/main/module.json",
-    "download": "https://github.com/casegib/vassalimporter/archive/refs/tags/v0.0.1.zip" 
+    "download": "https://github.com/casegib/vassalimporter/releases/download/v0.0.1/vassal-importer.zip" 
 }
