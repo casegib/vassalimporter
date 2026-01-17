@@ -1,0 +1,29 @@
+{
+    "id": "vassal-importer",
+    "title": "Vassal Importer",
+    "description": "Import Vassal modules into Foundry VTT.",
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "13"
+    },
+    "authors": [
+        {
+            "name": "CaseGib"            
+        }
+    ],
+    "esmodule": [
+        "./modules/vassal-importer.js"
+    ],
+    "scripts": [
+        "./lib/jszip/jszip.min.js",
+        "./lib/jszip/jszip-utils.min.js",
+        "./lib/FileSaver.min.js"
+    ],
+    "styles": [
+        "./styles/vassal-importer.css"
+    ],
+    "url": "",
+    "manifest": "",
+    "download": "" 
+}
