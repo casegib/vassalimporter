@@ -23,7 +23,7 @@
     "styles": [
         "./styles/vassal-importer.css"
     ],
-    "url": "",
-    "manifest": "",
-    "download": "" 
+    "url": "https://raw.githubusercontent.com/casegib/vassalimporter/",
+    "manifest": "https://raw.githubusercontent.com/casegib/vassalimporter/main/module.json",
+    "download": "https://github.com/casegib/vassalimporter/archive/refs/tags/v0.0.1.zip" 
 }
