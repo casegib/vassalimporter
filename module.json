@@ -13,7 +13,7 @@
         }
     ],
     "esmodule": [
-        "./modules/vassal-importer.js"
+        "./src/main.js"
     ],
     "scripts": [
         "./lib/jszip/jszip.min.js",
